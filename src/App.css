@@ -1,0 +1,30 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.navbar{
+  border:solid white;
+  width:90vw;
+  display:flex;
+  justify-content: space-evenly;
+}
+.topImg{
+  border:solid white;
+  border-width:.2px;
+  width:100%;
+}
+.smIcon{
+  width:90px;
+  height:90px;
+  background-color:white;
+  border-radius:50%;
+  margin:1em;
+}
+.flexer{
+  border:solid blue;
+  display: flex;
+  justify-content: space-around;
+}
